@@ -1,0 +1,176 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="MuiGrid-root makeStyles-root-1 MuiGrid-container"
+>
+  <div
+    className="MuiGrid-root makeStyles-grid-2 MuiGrid-item MuiGrid-grid-sm-12"
+  >
+    <div
+      className="MuiInputBase-root MuiInput-root MuiInput-underline"
+      onClick={[Function]}
+    >
+      <div
+        aria-haspopup="listbox"
+        className="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onMouseDown={[Function]}
+        role="button"
+        tabIndex={0}
+      >
+        <span
+          dangerouslySetInnerHTML={
+            Object {
+              "__html": "&#8203;",
+            }
+          }
+        />
+      </div>
+      <input
+        aria-hidden={true}
+        className="MuiSelect-nativeInput"
+        onAnimationStart={[Function]}
+        onChange={[Function]}
+        tabIndex={-1}
+        value="select"
+      />
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSelect-icon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M7 10l5 5 5-5z"
+        />
+      </svg>
+    </div>
+    <button
+      className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      sm={6}
+      tabIndex={0}
+      type="button"
+    >
+      <span
+        className="MuiButton-label"
+      >
+         Click to fetch the details of user 
+      </span>
+    </button>
+  </div>
+  <div
+    className="MuiGrid-root makeStyles-grid-2 MuiGrid-item MuiGrid-grid-sm-12"
+  >
+    <p
+      className="MuiTypography-root MuiTypography-body1"
+    >
+      Total Reward Points: 
+      0
+    </p>
+  </div>
+  <div
+    className="MuiPaper-root MuiTableContainer-root makeStyles-tableContainer-3 MuiPaper-elevation1 MuiPaper-rounded"
+  >
+    <table
+      className="MuiTable-root makeStyles-table-4"
+      role={null}
+    >
+      <thead
+        className="MuiTableHead-root"
+        role={null}
+      >
+        <tr
+          className="MuiTableRow-root MuiTableRow-head"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-head"
+            scope="col"
+          >
+            Name
+          </th>
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignRight"
+            scope="col"
+          >
+            Amount
+          </th>
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignRight"
+            scope="col"
+          >
+            Transaction Date
+          </th>
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignRight"
+            scope="col"
+          >
+            Reward Points
+          </th>
+        </tr>
+      </thead>
+      <tbody
+        className="MuiTableBody-root"
+        role={null}
+      />
+    </table>
+  </div>
+  <div
+    className="MuiPaper-root MuiTableContainer-root makeStyles-tableContainer-3 MuiPaper-elevation1 MuiPaper-rounded"
+  >
+    <table
+      className="MuiTable-root makeStyles-table-4"
+      role={null}
+    >
+      <thead
+        className="MuiTableHead-root"
+        role={null}
+      >
+        <tr
+          className="MuiTableRow-root MuiTableRow-head"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter"
+            scope="col"
+          >
+            Month
+          </th>
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter"
+            scope="col"
+          >
+            Reward Points
+          </th>
+        </tr>
+      </thead>
+      <tbody
+        className="MuiTableBody-root"
+        role={null}
+      />
+    </table>
+  </div>
+</div>
+`;
