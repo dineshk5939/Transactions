@@ -2,7 +2,7 @@
 
 exports[`renders correctly 1`] = `
 <div
-  className="MuiGrid-root makeStyles-root-1 MuiGrid-container"
+  className="MuiGrid-root makeStyles-root-1"
 >
   <div
     className="MuiGrid-root makeStyles-grid-2 MuiGrid-item MuiGrid-grid-sm-12"
@@ -70,7 +70,9 @@ exports[`renders correctly 1`] = `
       <span
         className="MuiButton-label"
       >
-         Click to fetch the details of user 
+         
+        Click to fetch the details of user
+         
       </span>
     </button>
   </div>
